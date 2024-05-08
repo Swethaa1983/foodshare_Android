@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Food share App</string>
+    <string name="add_your_request"><u>Don\'t have An Account?</u></string>
+    <string name="title_activity_showlocation">showlocation</string>
+</resources>
